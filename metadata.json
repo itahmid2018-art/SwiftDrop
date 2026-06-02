@@ -1,0 +1,6 @@
+{
+  "name": "Local WiFi File Share",
+  "description": "Premium local WiFi file sharing with a beautiful frosted glass interface. Swiftly transfer files between devices using auto-discovery and QR codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
